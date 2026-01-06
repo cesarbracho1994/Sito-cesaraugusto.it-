@@ -14,7 +14,7 @@ export function Layout() {
       <header className="bg-burgundy text-ivory">
         <div className="mx-auto max-w-6xl px-5 py-5 flex items-center justify-between">
           <a href="/" className="flex items-baseline gap-3">
-            <span className="font-serif text-2xl md:text-3xl font-semibold">Cesar Augusto</span>
+            <span className="font-brand text-2xl md:text-3xl font-semibold tracking-wide">Cesar Augusto</span>
             <span className="hidden sm:inline text-xs tracking-luxe uppercase text-ivory/80">
               Private Tours
             </span>
