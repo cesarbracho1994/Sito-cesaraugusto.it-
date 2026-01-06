@@ -13,7 +13,8 @@ export function Home() {
             alt="Venezia"
             className="h-full w-full object-cover"
           />
-          <div className="absolute inset-0 bg-burgundy/70" />
+         <div className="absolute inset-0 bg-black/35" />
+
         </div>
 
         <div className="relative mx-auto max-w-6xl px-5 py-20 md:py-28 text-ivory">
