@@ -21,7 +21,7 @@ export function ExperienceDetail() {
     <div>
       <div className="relative h-[46vh] min-h-[320px]">
         <img src={exp.image} alt={exp.title.it} className="h-full w-full object-cover" />
-        <div className="absolute inset-0 bg-burgundy/65" />
+       <div className="absolute inset-0 bg-black/45" />
         <div className="absolute inset-0">
           <div className="mx-auto max-w-6xl px-5 py-14 text-ivory">
             <Link className="inline-flex items-center gap-2 text-ivory/80 hover:text-ivory" to="/esperienze">
