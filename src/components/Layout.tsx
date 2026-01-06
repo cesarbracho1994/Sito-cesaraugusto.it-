@@ -63,7 +63,7 @@ export function Layout() {
           <div>
             <p className="text-sm tracking-luxe uppercase text-ivory/85">Contatti</p>
             <div className="mt-3 grid gap-2 text-sm">
-              <a className="inline-flex items-center gap-2 text-ivory/80 hover:text-ivory" href="mailto:info@cesaraugusto.it">
+              <a className="inline-flex items-center gap-2 text-ivory/80 hover:text-ivory" href="mailto:cesarbracho1994@gmail.com">
                 <Mail className="h-4 w-4 text-accent" /> info@cesaraugusto.it
               </a>
               <a className="inline-flex items-center gap-2 text-ivory/80 hover:text-ivory" href="https://wa.me/393000000000" target="_blank" rel="noreferrer">
