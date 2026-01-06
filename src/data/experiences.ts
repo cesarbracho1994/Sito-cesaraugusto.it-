@@ -3,7 +3,7 @@ export type BadgeKey = 'luxury' | 'private' | 'tailorMade' | 'small'
 
 export type Experience = {
   slug: string
-  image: string
+ image: 'https://source.unsplash.com/VUxns-GMKkg/1600x1000',
   title: { it: string; en: string; es: string }
   shortDescription: { it: string; en: string; es: string }
   duration: string
