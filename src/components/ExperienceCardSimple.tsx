@@ -21,7 +21,7 @@ export function ExperienceCardSimple({ experience }: { experience: Experience })
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           loading="lazy"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-burgundy/60 via-transparent to-transparent" />
+       <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-black/10 to-transparent" />
         <div className="absolute bottom-4 right-4">
           <span className="px-3 py-1.5 bg-ivory/95 backdrop-blur-sm rounded-sm text-sm font-semibold text-charcoal border border-accent/20">
             Da €{experience.priceFrom}
