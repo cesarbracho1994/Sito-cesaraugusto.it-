@@ -15,6 +15,11 @@ export default {
         elevated: '0 18px 50px rgba(0,0,0,0.14)',
       },
       fontFamily: {
+  brand: ['"Cinzel"', '"Cormorant Garamond"', 'serif'],
+  serif: ['"Cormorant Garamond"', 'ui-serif', 'Georgia', 'serif'],
+  sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+},
+
         serif: ['"Cormorant Garamond"', 'ui-serif', 'Georgia', 'serif'],
         sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
       },
